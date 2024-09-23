@@ -156,8 +156,8 @@
         "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
     },
     "play": {
-        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
-        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+        "YOUTUBE_API": "",
+        "SOUNDCLOUD_API": ""
     },
     "video": {
         "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8"
@@ -178,8 +178,8 @@
         "APIKEY": "Meew_hTrAe8Ipec8EsSRsQXoMO7v0XaPgY0"
     },
     "sing": {
-        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
-        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+        "YOUTUBE_API": "",
+        "SOUNDCLOUD_API": ""
     },
     "slapv2": {
         "APIKEY": ""
