@@ -4,15 +4,7 @@
         "value": "%7B%2261557843514994%22%3A%22npywG23w%22%2C%2261555814205916%22%3A%22FeeFqzRt%22%2C%2261559274632634%22%3A%22ntT7hcQi%22%2C%2261559032691435%22%3A%22qtToPocZ%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2024-05-15T01:12:23.987Z",
-        "lastAccessed": "2024-05-15T01:12:23.987Z"
-    },
-    {
-        "key": "datr",
-        "value": "xIY2ZuT3TMgIrVsgVB7IbXNC",
-        "domain": "facebook.com",
-        "path": "/",
+        "hostOnly"
         "hostOnly": false,
         "creation": "2024-05-15T01:12:23.987Z",
         "lastAccessed": "2024-05-15T01:12:23.987Z"
